@@ -1,0 +1,12 @@
+{
+  "name": "lz",
+  "version": "1.0.0",
+  "description": "lazy computation class",
+  "main": "lz.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["lazy evaluation"],
+  "author": "leto1394@gmail.com",
+  "license": "ISC"
+}
